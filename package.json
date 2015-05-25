@@ -1,0 +1,40 @@
+{
+  "name": "gl-to-dtype",
+  "version": "1.0.0",
+  "description": "turns a gl type into a dtype string",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "gl-constants": "^1.0.0",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "dtype",
+    "gl",
+    "constant",
+    "flag",
+    "flags",
+    "texture",
+    "float",
+    "uint8",
+    "uint8_clamped"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/gl-to-dtype.git"
+  },
+  "homepage": "https://github.com/mattdesl/gl-to-dtype",
+  "bugs": {
+    "url": "https://github.com/mattdesl/gl-to-dtype/issues"
+  }
+}

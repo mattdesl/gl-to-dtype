@@ -23,6 +23,9 @@ gl.UNSIGNED_SHORT -> 'uint16'
 gl.SHORT          -> 'int16'
 gl.UNSIGNED_BYTE  -> 'uint8'
 gl.BYTE           -> 'int8'
+gl.UNSIGNED_SHORT_4_4_4_4 -> 'uint16'
+gl.UNSIGNED_SHORT_5_5_5_1 -> 'uint16'
+gl.UNSIGNED_SHORT_5_6_5 -> 'uint16'
 ```
 
 ## Usage

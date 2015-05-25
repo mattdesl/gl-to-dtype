@@ -1,6 +1,6 @@
 {
   "name": "gl-to-dtype",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "turns a gl type into a dtype string",
   "main": "index.js",
   "license": "MIT",
